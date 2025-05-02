@@ -110,6 +110,27 @@ nav ul li a:hover {
   max-width: 800px;
   margin: 20px auto;
 }
+/* faqs section */
+.faqs{
+  background-color: #f4f4f4;
+  padding: 60px 20px;
+  text-align: center;
+
+}
+.questions{
+  background-color: rgba(22, 146, 22, 0.089);
+  height: 400px;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+  font-size: 90px;
+  padding-top: 90px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.common{
+  text-align: center;
+}
 
 /* Services Section */
 .services {
